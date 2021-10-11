@@ -26,7 +26,7 @@ final class OpenWeatherMapService {
 ## Стек
 - Swift
 - UIKit, UICollectionViewCompositionalLayout, UICollectionViewDiffableDataSource
-- URLSession, URLCache, CoreLocation
+- URLSession, URLCache, CoreLocation, CoreData
 - Boxing, Delegate
 - MVVM + Coordinator
 
