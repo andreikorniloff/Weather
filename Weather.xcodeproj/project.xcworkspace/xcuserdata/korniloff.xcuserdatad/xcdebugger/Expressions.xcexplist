@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LocationManager.determineCurrentLocation():LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherPagesViewController.configurePageControl():WeatherPagesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pages">
+            </PersistentString>
+            <PersistentString
+               value = "pageControl.currentPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherPagesViewController.didSelectWeatherPage(at:):WeatherPagesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pages">
+            </PersistentString>
+            <PersistentString
+               value = "viewControllers">
+            </PersistentString>
+            <PersistentString
+               value = "currentIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in WeatherView.createDataSource():WeatherView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self?.viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherPagesViewController.pageViewController(_:didFinishAnimating:previousViewControllers:transitionCompleted:):WeatherPagesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pages.firstIndex(of: previousViewControllers[0])">
+            </PersistentString>
+            <PersistentString
+               value = "pageViewController.viewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in OpenWeatherMapService.fetchData(for:completion:):OpenWeatherMapService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in OpenWeatherMapService.fetchData(for:completion:):OpenWeatherMapService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Location.init(coordinate:place:):Location.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "place">
+            </PersistentString>
+            <PersistentString
+               value = "place.name">
+            </PersistentString>
+            <PersistentString
+               value = "place.administrativeArea">
+            </PersistentString>
+            <PersistentString
+               value = "place.locality">
+            </PersistentString>
+            <PersistentString
+               value = "place.region">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in WeatherViewModel.dailyCellViewModels.getter:WeatherViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in OpenWeatherMapService.fetchData(for:completion:):OpenWeatherMapService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Coordinator.childDidFinish(_:):Coordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "childCoordinators">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LocationManager.locationManager(_:didUpdateLocations:):LocationManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WeatherPagesViewController.pageViewController(_:viewControllerBefore:):WeatherPagesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PrimaryHeaderView.calculateAlpha():PrimaryHeaderView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "temperatureLabel.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "temperatureLabel.frame.height">
+            </PersistentString>
+            <PersistentString
+               value = "Constants.defaultTopHeaderHeight ">
+            </PersistentString>
+            <PersistentString
+               value = "frame.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dynamic.value.didset:Dynamic.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listeners">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SceneDelegate.sceneWillEnterForeground(_:):SceneDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "willEnterForegroundCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OpenWeatherMapService.fetchData(for:completion:):OpenWeatherMapService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "now - dataResponse.current.dt">
+            </PersistentString>
+            <PersistentString
+               value = "now &gt; dataResponse.current.dt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dynamic.bind(listener:):Dynamic.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listeners">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
